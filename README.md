@@ -12,7 +12,7 @@
 • <a href="https://github.com/Jaiminp007/High-Performance-Limit-Order-Book"><strong>C++ limit order book</strong></a> &mdash; optimized limit order book
 </p>
 
-<p align="left">always looking for opportunities &mdash; would love to connect, shoot a dm at my <a href="https://www.linkedin.com/in/jaimin-patel007">linkedin</a></p>
+<p align="left">always open to new opportunities and conversations, send me a <a href="https://www.linkedin.com/in/jaimin-patel007">message at linkedin</a></p>
 
 </td>
 <td align="center" valign="middle" width="42%">
