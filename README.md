@@ -9,7 +9,7 @@
 <p align="left">
 • <a href="https://finnyai.tech"><strong>Finny</strong></a> &mdash; steering AI models in financial markets<br>
 • <a href="https://github.com/Jaiminp007/AlgoClash-Where-Code-Collides"><strong>AlgoClash</strong></a> &mdash; sandbox battle between AI agents<br>
-• <a href="https://github.com/Jaiminp007/High-Performance-Limit-Order-Book"><strong>C++ limit order book</strong></a> &mdash; optimized limit order book
+• <a href="https://github.com/Jaiminp007/High-Performance-Limit-Order-Book"><strong>C++ limit order book</strong></a> &mdash; high-performance matching engine
 </p>
 
 <p align="left">always open to new opportunities and conversations, send me a <a href="https://www.linkedin.com/in/jaimin-patel007">message at linkedin</a></p>
