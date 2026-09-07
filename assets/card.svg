@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+  <rect width="1000" height="430" rx="14" fill="#0d1117"/>
+  <text x="70" y="170" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="64" font-weight="700" fill="#e6edf3">Jaimin</text>
+  <text x="74" y="225" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="24" font-weight="600" fill="#8b949e">my few projects:</text>
+  <text x="74" y="270" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="20" fill="#c9d1d9">finny &mdash; steering AI models in financial markets</text>
+  <text x="74" y="305" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="20" fill="#c9d1d9">quantflow &mdash; pairs-trading stat-arb backtest engine</text>
+  <text x="74" y="340" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="20" fill="#c9d1d9">limit order book &mdash; C++17 matching engine</text>
+  <text x="74" y="398" font-family="'Comic Sans MS','Chalkboard SE','Segoe UI',cursive,sans-serif" font-size="17" fill="#8b949e">always looking for opportunities &mdash; would love to connect, shoot a dm at my linkedin</text>
+</svg>
