@@ -1,22 +1,24 @@
-<table>
+<div>
+<table border="0">
 <tr>
 <td align="left" valign="middle" width="58%">
 
-<h2 align="left">Jaimin</h2>
+## Jaimin
 
-<p align="left"><strong>my few projects:</strong></p>
+[Portfolio](http://jaimin-patel.me)
 
-<p align="left">
-<a href="https://github.com/finny-ai/finny"><strong>Finny</strong></a> &mdash; steering AI models in financial markets<br>
-<a href="https://github.com/Jaiminp007/fly-ecosystem"><strong>AfterWing</strong></a> &mdash; achieving recursive self improvement, hopefully :)<br>
-<a href="https://github.com/Jaiminp007/AlgoClash-Where-Code-Collides"><strong>AlgoClash</strong></a> &mdash; sandbox battle between AI agents<br>
-</p>
+**my few projects:**
 
-<p align="left">always open to new opportunities and conversations, send me a <a href="https://www.linkedin.com/in/jaimin-patel007">message at linkedin</a></p>
+[**Finny**](https://github.com) &mdash; steering AI models in financial markets  
+[**AfterWing**](https://github.com) &mdash; achieving recursive self improvement, hopefully :)  
+[**AlgoClash**](https://github.com) &mdash; sandbox battle between AI agents  
+
+always open to new opportunities and conversations, send me a [message at linkedin](https://linkedin.com)
 
 </td>
 <td align="center" valign="middle" width="42%">
-  <img src="assets/avatar.png" width="330" alt="Jaimin" />
+  <img src="assets/avatar.png" width="330" alt="Jaimin" style="max-width:100%; display:block;" />
 </td>
 </tr>
 </table>
+</div>
