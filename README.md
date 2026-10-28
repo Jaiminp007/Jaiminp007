@@ -9,9 +9,9 @@
 
 **my few projects:**
 
-[**Finny**](https://github.com) &mdash; steering AI models in financial markets  
-[**AfterWing**](https://github.com) &mdash; achieving recursive self improvement, hopefully :)  
-[**AlgoClash**](https://github.com) &mdash; sandbox battle between AI agents  
+[**Finny**](https://github.com/finny-ai/finny) &mdash; steering AI models in financial markets  
+[**AfterWing**](https://github.com/Jaiminp007/fly-ecosystem) &mdash; achieving recursive self improvement, hopefully :)  
+[**AlgoClash**](https://github.com/Jaiminp007/AlgoClash-Where-Code-Collides) &mdash; sandbox battle between AI agents  
 
 always open to new opportunities and conversations, send me a [message at linkedin](https://linkedin.com)
 
